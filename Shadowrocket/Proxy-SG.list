@@ -1,1 +1,41 @@
+# ==========================================
+# Zeus Rules - Proxy-SG Rule Set (新加坡代理规则集)
+# 策略类型: PROXY-SG (代理)
+# 说明: 覆盖 Binance 网页端、App 端、现货/合约交易及 Web3 钱包
+# ==========================================
 
+# --- Binance (币安全球/API/Web3/CDN) ---
+# --- 核心主站与 API 服务 ---
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.net
+DOMAIN-SUFFIX,binance.org
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,binance.charity
+DOMAIN-SUFFIX,binance.co
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binance.vision
+# --- 备用域名与区域/替代入口 ---
+DOMAIN-SUFFIX,binancezh.com
+DOMAIN-SUFFIX,binancezh.net
+DOMAIN-SUFFIX,binancezh.co
+DOMAIN-SUFFIX,binancezh.link
+DOMAIN-SUFFIX,binancezh.pro
+DOMAIN-SUFFIX,binancezh.info
+DOMAIN-SUFFIX,binancezh.top
+DOMAIN-SUFFIX,binancezh.cc
+DOMAIN-SUFFIX,binance.im
+DOMAIN-SUFFIX,binance.in
+# --- Binance 美国站（如需访问） ---
+DOMAIN-SUFFIX,binance.us
+# --- CDN 内容分发与静态资源 ---
+DOMAIN-SUFFIX,bnstatic.com
+DOMAIN-SUFFIX,binance.g2afse.com
+DOMAIN-SUFFIX,saasbnb.com
+DOMAIN-SUFFIX,saasbnb.io
+# --- Web3、链上与生态基础设施 ---
+DOMAIN-SUFFIX,bnbchain.org
+DOMAIN-SUFFIX,bsc.store
+DOMAIN-SUFFIX,trustwallet.com
+# --- 关键字匹配（防止新出的子域名/CDN遗漏） ---
+DOMAIN-KEYWORD,binance
+DOMAIN-KEYWORD,bnstatic
