@@ -39,3 +39,5 @@ DOMAIN-SUFFIX,trustwallet.com
 # --- 关键字匹配（防止新出的子域名/CDN遗漏） ---
 DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,bnstatic
+
+polymarket.com
