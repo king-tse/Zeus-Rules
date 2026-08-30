@@ -4,6 +4,63 @@
 # 适用: Shadowrocket / Surge / Loon / Quantumult X
 # ==========================================
 
+# --- AI 人工智能与大模型服务 ---
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,civitai.com
+
+# --- 社交媒体与国际论坛 ---
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,500px.com
+DOMAIN-SUFFIX,500px.org
+DOMAIN-SUFFIX,onlyfans.com
+
+# --- 加密货币、Web3 钱包及预测市场 ---
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,metamask.io
+DOMAIN-SUFFIX,polymarket.com
+DOMAIN-SUFFIX,nicehash.com
+DOMAIN-SUFFIX,hkd.com
+DOMAIN-SUFFIX,cex.io
+
+# --- 富途证券生态 (Futuniuniu / Moomoo) ---
+DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,futu5.com
+DOMAIN-SUFFIX,fututrade.com
+DOMAIN-SUFFIX,futuie.com
+DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,futubull.com
+DOMAIN-SUFFIX,futunnweb.com
+DOMAIN-SUFFIX,futuapp.com
+
+# --- 海外金融银行与电信服务 ---
+DOMAIN-SUFFIX,swissquote.com
+DOMAIN-SUFFIX,ultramobile.com
+
+# --- 流媒体与娱乐服务 ---
+DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,lovense.com
+
+# --- 搜索引擎、开发者工具与域名基础设施 ---
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,godaddy.com
+
+# --- 个人站点服务 ---
+DOMAIN-SUFFIX,sspanel.net
+DOMAIN-SUFFIX,wgetcloud.org
+DOMAIN-SUFFIX,wgetcloud.online
+DOMAIN-SUFFIX,hiwannz.com
+DOMAIN-SUFFIX,yang-1989.eu.org
+DOMAIN-SUFFIX,iill.top
+DOMAIN-SUFFIX,xxlpipes.com
+DOMAIN-SUFFIX,alivecor.com
+
 # --- Apple Intelligence & Siri 服务 ---
 DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,apple-relay.apple.com
