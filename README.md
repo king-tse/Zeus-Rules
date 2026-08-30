@@ -4,7 +4,7 @@ Master Your Traffic, Rule Your Network.
 ## 📌 远程订阅规则链接 (Raw Links)
 
 ### 🚀 Shadowrocket (小火箭) 规则集
-  Direct.list【国内直连】           https://raw.githubusercontent.com/king-tse/Zeus-Rules/refs/heads/main/Shadowrocket/Direct.list
+  Direct.list【直连】           https://raw.githubusercontent.com/king-tse/Zeus-Rules/refs/heads/main/Shadowrocket/Direct.list
   
   Proxy.list【通用国外代理】        https://raw.githubusercontent.com/king-tse/Zeus-Rules/refs/heads/main/Shadowrocket/Proxy.list
   
