@@ -3,3 +3,7 @@
 # 策略类型: PROXY-US (代理)
 # 说明: 适合美国本土访问的
 # ==========================================
+
+# --- Kalshi 预测市场交易所 ---
+DOMAIN-SUFFIX,kalshi.com
+DOMAIN-KEYWORD,kalshi
