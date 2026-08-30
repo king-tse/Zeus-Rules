@@ -40,4 +40,6 @@ DOMAIN-SUFFIX,trustwallet.com
 DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,bnstatic
 
-polymarket.com
+# --- Polymarket 预测市场服务 ---
+DOMAIN-SUFFIX,polymarket.com
+DOMAIN-KEYWORD,polymarket
