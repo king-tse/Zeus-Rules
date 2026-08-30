@@ -1,1 +1,69 @@
+# ==========================================
+# Zeus Rules - Direct Rule Set (小火箭直连规则集)
+# 说明: 包含常用科技公司、CDN、金融银行、政府签证及游戏 CDN 资源
+# 格式: Shadowrocket / Surge 适用
+# ==========================================
 
+# --- 科技与基础服务 ---
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,dyndns.com
+DOMAIN-SUFFIX,oracle.com
+DOMAIN-SUFFIX,qq.com
+
+# --- 国内 CDN 与媒体 ---
+DOMAIN-SUFFIX,douyucdn.cn
+DOMAIN-SUFFIX,douyucdn2.cn
+
+# --- 香港及海外金融银行服务 ---
+DOMAIN-SUFFIX,cmbwinglungbank.com
+DOMAIN-SUFFIX,za.group
+DOMAIN-SUFFIX,livibank.com
+DOMAIN-SUFFIX,airstarbank.com
+DOMAIN-SUFFIX,antbank.hk
+DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,usmartsecurities.com
+DOMAIN-SUFFIX,schwab.com
+DOMAIN-SUFFIX,xapobank.com
+DOMAIN-SUFFIX,ocbc.com
+DOMAIN-SUFFIX,ocbc.com.hk
+DOMAIN-SUFFIX,axosbank.com
+DOMAIN-SUFFIX,dukascopy.com
+DOMAIN-SUFFIX,dukascopy.bank
+DOMAIN-SUFFIX,eastwestbank.com
+DOMAIN-SUFFIX,maybank.com
+DOMAIN-SUFFIX,wise.com
+
+# --- iFAST 奕丰金融基础设施及 CDN 安全节点 ---
+# iFAST GB 官方主站与网页端
+DOMAIN-SUFFIX,ifastgb.com
+DOMAIN-SUFFIX,ifastgb.com.cn
+# iFAST 集团及金融基础设施主域名（涵盖登录、鉴权与跨行清关）
+DOMAIN-SUFFIX,ifastfinancial.com
+DOMAIN-SUFFIX,ifastcorp.com
+# 银行使用的 Akamai CDN 防火墙与安全校验节点（防止出现 Access Denied 报错）
+DOMAIN-SUFFIX,edgesuite.net
+DOMAIN-SUFFIX,edgekey.net
+DOMAIN-SUFFIX,akamaihd.net
+
+# --- 政府、大使馆及签证服务 ---
+DOMAIN-SUFFIX,france-visas.gouv.fr
+DOMAIN-SUFFIX,tlscontact.com
+DOMAIN-SUFFIX,gov.hk
+DOMAIN-SUFFIX,state.gov
+DOMAIN-SUFFIX,ustraveldocs.com
+DOMAIN-SUFFIX,educationmalaysia.gov.my
+
+# --- Steam 及游戏下载 CDN 加速 ---
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,dl.steam.clngaa.com
+DOMAIN-SUFFIX,dl.steam.ksyna.com
+DOMAIN-SUFFIX,st.dl.bscstorage.net
+DOMAIN-SUFFIX,st.dl.eccdnx.com
+DOMAIN-SUFFIX,st.dl.pinyuncloud.com
+DOMAIN-SUFFIX,cdn.mileweb.cs.steampowered.com.8686c.com
+DOMAIN-SUFFIX,cdn-ws.content.steamchina.com
+DOMAIN-SUFFIX,cdn-qc.content.steamchina.com
+DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
+DOMAIN-SUFFIX,epicgames-download1-1251447533.file.myqcloud.com
