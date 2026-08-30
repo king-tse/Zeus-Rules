@@ -1,1 +1,48 @@
+# ==========================================
+# Zeus Rules - Proxy Rule Set (宙斯法则 - 代理规则集)
+# 说明: 包含 Apple Intelligence & Siri、TikTok、Google、GitHub 及 爱壹帆(IYF) 视频
+# 适用: Shadowrocket / Surge / Loon / Quantumult X
+# ==========================================
 
+# --- Apple Intelligence & Siri 服务 ---
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,apple-relay.apple.com
+DOMAIN,cp4.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,guzzoni.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
+
+# --- TikTok 全球解锁与内容传输 ---
+DOMAIN-KEYWORD,tiktokcdn-com
+DOMAIN-SUFFIX,p16-tiktokcdn-com.akamaized.net
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,ibyteimg.com
+DOMAIN-SUFFIX,ipstatp.com
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,sgpstatp.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,tik-tokapi.com
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokv.com
+
+# --- Google 基础服务与 API ---
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,google.com.tw
+DOMAIN-SUFFIX,google.com.hk
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+
+# --- GitHub 开源社区及 CDN ---
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.global.ssl.fastly.net
+DOMAIN-SUFFIX,assets-cdn.github.com
+
+# --- 爱壹帆 (IYF) 影视平台 ---
+DOMAIN-SUFFIX,iyf.tv
+DOMAIN-SUFFIX,aiyifan.tv
+DOMAIN-SUFFIX,yfsp.tv
