@@ -70,6 +70,17 @@ DOMAIN,apple-relay.cloudflare.com
 DOMAIN,guzzoni.apple.com
 DOMAIN-SUFFIX,smoot.apple.com
 
+DOMAIN,mask-api.fe.apple-dns.com
+DOMAIN,mask-api.icloud.com
+DOMAIN,mask-t.apple-dns.com
+DOMAIN,mask.apple-dns.com
+DOMAIN,apple-relay.mask.apple-dns.com
+DOMAIN,gateway.icloud.com
+DOMAIN,ls.apple.com
+DOMAIN,mask-h2.icloud.com
+DOMAIN,mask.icloud.com
+DOMAIN,apps.mzstatic.com
+
 # --- TikTok 全球解锁与内容传输 ---
 DOMAIN-KEYWORD,tiktokcdn-com
 DOMAIN-SUFFIX,p16-tiktokcdn-com.akamaized.net
